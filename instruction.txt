@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 testing on
 fgdfgl
 
 
 
+=======
+testing only
+testing ok
+>>>>>>> 07bdea683bce55da2cd4910d7d494370e669c4e7
